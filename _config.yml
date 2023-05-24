@@ -3,7 +3,7 @@ title: Nova X (Nuwa Xi)
 description: I am a graduate student at SCIR lab at HIT, advised by Sendong Zhao and Ting Liu. I'm interested in cognitive-related NLP and bioNLP/medNLP.
 
 #Comment out url when working locally to resolve base urls correctly
-# url: https://novax.github.io
+url: https://novax-nlp.com
 
 # Owner/author information
 owner:
@@ -12,7 +12,6 @@ owner:
 #  bio:
   email: nvvxxx6021@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
   # facebook: caihanlin2002
   github: rootnx
   scholar: https://scholar.google.com/citations?user=6jFEal4AAAAJ&hl=en&oi=ao
@@ -32,18 +31,11 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About
     url: /
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+    
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
