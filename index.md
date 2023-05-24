@@ -23,5 +23,5 @@ My current research focuses on practical problems that artificial intelligence f
 ## News and Updates
 
 - **<font color='red'>[News]</font> I am looking for a Summer Research Intern Position (from June to Sep)!**
-- **May 2023: **My paper [**UniCoRN: Unified Cognitive Signal ReconstructioN bridging cognitive signals and human languages**] has been accepted to ACL2023!
+- **May 2023：**My paper [**UniCoRN: Unified Cognitive Signal ReconstructioN bridging cognitive signals and human languages**] has been accepted to ACL2023!
 - **May 2023：**Our open-source Chinese Medical LLM [Huatuo/Bencao](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) has received 2.7k+ stars on github!
