@@ -5,19 +5,14 @@ title: Publications
 ---
 
 # Publications
-
-Lastest Update: 9th May 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
-
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [UniCoRN: Unified Cognitive Signal ReconstructioN bridging cognitive signals and human languages](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Nuwa Xi**, Sendong Zhao, Haochun Wang, Chi Liu, Bing Qin and Ting Liu<br>The 61st Annual Meeting of the Association for Computational Linguistics 
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+- [Prompt Combines Paraphrase: Teaching Pre-trained Models to Understand Rare Biomedical Words](https://arxiv.org/pdf/2209.06453.pdf)<br>Haochun Wang, Chi Liu, **Nuwa Xi**, Sendong Zhao, Meizhi Ju, Shiwei Zhang, Ziheng Zhang, Yefeng Zheng, Bing Qin, Ting Liu<br>The 29th International Conference on Computational Linguistics
 
-## Competition Paper
+## Preprint
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
+- [HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge](https://arxiv.org/pdf/2304.06975.pdf)<br>Haochun Wang, Chi Liu, **Nuwa Xi**, Zewen Qiang, Sendong Zhao, Bing Qin, Ting Liu<br>Received 2.7k+ stars on [github](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
 
-## Working Paper
-
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
+- [Global Prompt Cell: A Portable Control Module for Effective Prompt](https://arxiv.org/pdf/2304.05642.pdf)<br>Chi Liu, Haochun Wang, **Nuwa Xi**, Sendong Zhao, and Bing Qin
