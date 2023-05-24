@@ -3,7 +3,6 @@ title: Nova X (Nuwa Xi)
 description: I am a graduate student at SCIR lab at HIT, advised by Sendong Zhao and Ting Liu. I'm interested in cognitive-related NLP and bioNLP/medNLP.
 
 #Comment out url when working locally to resolve base urls correctly
-url: https://novax-nlp.com
 
 # Owner/author information
 owner:
@@ -35,7 +34,7 @@ links:
     url: /
   - title: Publications
     url: /publications/
-    
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
