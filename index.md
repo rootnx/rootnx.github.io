@@ -18,7 +18,7 @@ Feel free to contact me through email.
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on combing cognitive information (data/theory) with natural language processing.
 
 ## News and Updates
 
