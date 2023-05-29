@@ -12,11 +12,7 @@ I am a graduate student at [SCIR](http://ir.hit.edu.cn/) lab at HIT(Harbin Insti
 
 Feel free to contact me through email ;)
 
-## Research Interests
-
-My current research focuses on combing cognitive information (data/theory) with natural language processing.
-
-## News and Updates
+test## News and Updates
 
 - **<font color='red'>[News]</font> I am looking for a Summer Research Intern Position (from June to Sep)!**
 - **May 2023：**My paper [**UniCoRN: Unified Cognitive Signal ReconstructioN bridging cognitive signals and human languages**] has been accepted to ACL2023!
