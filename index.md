@@ -8,13 +8,9 @@ layout: page
 
 Here is **Nova X (Nuwa Xi, 席奴瓦)**.
 
-I am a graduate student at [SCIR](http://ir.hit.edu.cn/) lab at HIT(Harbin Institute of Technology), advised by [Sendong Zhao](https://scholar.google.com/citations?user=ZtIhRvwAAAAJ&hl=zh-CN) and [Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=zh-CN&oi=ao). Prior to my graduate, I received my bachelor degree from HIT. I work on language processing in deep neural networks and the human brain.
+I am a graduate student at [SCIR](http://ir.hit.edu.cn/) lab at HIT(Harbin Institute of Technology), advised by [Sendong Zhao](https://scholar.google.com/citations?user=ZtIhRvwAAAAJ&hl=zh-CN) and [Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=zh-CN&oi=ao). Prior to my graduate, I received my bachelor degree from HIT. My research interests include Cognitive-related/inspired NLP and MedNLP/BioNLP.
 
-
-My research interests include deep learning, neuroscience, natural language processing, AI for healthcare & biology.
-
-
-Feel free to contact me through email.
+Feel free to contact me through email ;)
 
 ## Research Interests
 
